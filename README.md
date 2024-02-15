@@ -2,6 +2,7 @@
 
 # Excel to JSON and back.
 
-# pip install openpyxl
+# Dep.
+pip install openpyxl
 
 #  
