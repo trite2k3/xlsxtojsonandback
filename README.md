@@ -1,3 +1,7 @@
-# xlsxtojsonandback
-# xlsxtojsonandback
-# xlsxtojsonandback
+# 
+
+# Excel to JSON and back.
+
+# pip install openpyxl
+
+#  
